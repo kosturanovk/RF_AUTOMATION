@@ -3,3 +3,8 @@
 *.log
 *.project
 libspecs/
+test/pabot_results
+test/*.pabotsuitenames
+test/*.html
+test/*.xml
+test/*.png
