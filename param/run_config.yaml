@@ -1,0 +1,3 @@
+TEST_EXEC_CONF:
+  browser: chrome
+  url: https://masters.musala.com/
